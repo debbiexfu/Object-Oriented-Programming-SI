@@ -1,0 +1,6 @@
+i,like,chicken,tenders
+i,am,hungry
+it,is,cold,outside
+the,rent,is,too,darn,high
+i,like,the,color,blue
+i,dont,like,chicken,tenders
